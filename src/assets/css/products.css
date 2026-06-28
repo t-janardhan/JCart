@@ -1,0 +1,22 @@
+.cat-btns  {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin: 20px 0;
+}
+.cat-btns .btn {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 24px;
+    font-weight: bold;
+}
+.products-list {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.products-list li{
+    width: calc(100% / 4 - 9px);
+}
+
