@@ -15,7 +15,7 @@ export default function Banners() {
                         <img src="https://static.vecteezy.com/system/resources/thumbnails/002/006/774/small/paper-art-shopping-online-on-smartphone-and-new-buy-sale-promotion-backgroud-for-banner-market-ecommerce-free-vector.jpg" className="d-block w-100" alt="Banner 1"/>
                             <div className="carousel-caption d-none d-md-block">
                                 <h5>First Slide</h5>
-                                <p>Some description here</p>
+                                <p>Some description here..</p>
                             </div>
                     </div>
 
